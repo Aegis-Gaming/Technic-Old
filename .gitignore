@@ -1,0 +1,27 @@
+# Git #
+#######
+.git
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Misc files #
+##############
+*.bak
+lastlogin
+
+# Minecraft JARs #
+##################
+/Patches/Minecraft/Create Patch/Check Patch.bat
+/Patches/Minecraft/Create Patch/mcbackup.jar
+/Patches/Minecraft/Create Patch/minecraft**.jar
