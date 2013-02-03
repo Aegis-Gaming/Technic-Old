@@ -19,7 +19,7 @@ builds:
             basemods: anarchy-v1.0.1
             anarchy-mods: v1.0.1
             anarchy-config: v1.0.1
-            anarchy-resources: v1.0.1s
+            anarchy-resources: v1.0.1
     1.0.0:
         libraries:
         minecraft: 1.4.7
