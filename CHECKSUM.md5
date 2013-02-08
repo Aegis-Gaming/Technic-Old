@@ -4,7 +4,7 @@
 3E844E33F7C256A33AFD40941ED4E111|aegis-anarchy\resources\icon.ico
 B1690543970EDEF9EE54BACBABAA1C20|aegis-anarchy\resources\icon.png
 324F59FDA60E152980DC93BE351F1B83|aegis-anarchy\resources\logo_180.png
-6723260BDF4AAED19A65A3E8864DC8E3|aegis-recrux\modpack.yml
+B5F574A38AD434D2B91790EAF9FED0E2|aegis-recrux\modpack.yml
 A9273E8B88D25D424C904AA714E5C66D|aegis-recrux\resources\favicon.png
 56920857B98C8ED1C000DEC6BBCEDD5C|aegis-recrux\resources\icon.icns
 CE478C8408EC55AEAFC6673846519DC8|aegis-recrux\resources\icon.ico
@@ -31,3 +31,7 @@ A28432EE08113DFA12D3B7B5E9DE8EB1|modpacks.yml
 DCC3F44A1DBFCE5D76878B2ABB44049F|mods\recrux-config\recrux-config-v1.0.2.zip
 CBCC4CDEDF5FEA20DC4C5DAEDD0E0234|mods\recrux-mods\recrux-mods-v1.0.2.zip
 A124C149CF719E775E16CF6EE539E1CA|mods\recrux-resources\recrux-resources-v1.0.2.zip
+A124C149CF719E775E16CF6EE539E1CA|mods\recrux-resources\recrux-resources-v1.1.0.zip
+DC2964B696372913BC33AF17AFB71585|mods\recrux-mods\recrux-mods-v1.1.0.zip
+2BB6FDD63392BFEA03513EE5F983CADF|mods\recrux-config\recrux-config-v1.1.0.zip
+8817E3D06F08D2367752A830796CE1A5|mods\basemods\basemods-recrux-v1.1.0.zip
