@@ -14,7 +14,7 @@ builds:
     1.2.0:
         libraries:
         minecraft: 1.4.7
-        forge: 518
+        forge: 524
         mods:
             basemods: recrux-v1.2.0
             recrux-mods: v1.2.0
