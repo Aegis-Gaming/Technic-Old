@@ -1,0 +1,65 @@
+mods:
+    basemods:
+        name: "Jar modification Mods"
+        installtype: "zip"
+        versions:
+            anarchy-v1.0.0:
+            anarchy-v1.0.1:
+            anarchy-v1.0.2:
+            anarchy-v1.1.0:
+            anarchy-v1.1.1:
+            anarchy-v1.2.0:
+            recrux-v1.2.3:
+            recrux-v1.3.0:
+            recrux-v1.3.1:
+    anarchy-mods:
+        name: "Anarchy Mods"
+        installtype: "zip"
+        versions:
+            v1.0.0:
+            v1.0.1:
+            v1.0.2:
+            v1.1.0:
+            v1.1.1:
+            v1.2.0:
+    anarchy-config:
+        name: "Anarchy Config"
+        installtype: "zip"
+        versions:
+            v1.0.0:
+            v1.0.1:
+            v1.0.2:
+            v1.1.0:
+            v1.1.1:
+            v1.2.0:
+    anarchy-resources:
+        name: "Anarchy Resources"
+        installtype: "zip"
+        versions:
+            v1.0.0:
+            v1.0.1:
+            v1.0.2:
+            v1.1.0:
+            v1.1.1:
+            v1.2.0:
+    recrux-mods:
+        name: "Recrux Mods"
+        installtype: "zip"
+        versions:
+            v1.2.3:
+            v1.3.0:
+            v1.3.1:
+    recrux-config:
+        name: "Recrux Config"
+        installtype: "zip"
+        versions:
+            v1.2.3:
+            v1.3.0:
+            v1.3.1:
+    recrux-resources:
+        name: "Recrux Resources"
+        installtype: "zip"
+        versions:
+            v1.2.3:
+            v1.3.0:
+            v1.3.1:
