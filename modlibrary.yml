@@ -1,73 +1,500 @@
 mods:
+    AdvancedRepulsionSystems:
+        name: "Advanced Repulsion"
+        author: "immibis"
+        description: "example"
+        installtype: "zip"
+        link: "example"
+        versions:
+            v52.0.5:
+    AncientWarfare:
+        name: "Ancient Warfare (Catapult Mod)"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v0.8.6.133:
+    AppliedEnergistics:
+        name: "Applied Energistics"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v7.d:
+    ArmorStatusHUD:
+        name: "Armor Status HUD"
+        author: "bspkrs"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.6:
+    BackTools:
+        name: "Back Tools"
+        author: "iChun"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.4.6v1:
+    BalkonsWeaponMod:
+        name: "Balkon's Weapon Mod"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.10.3:
     basemods:
         name: "Jar modification Mods"
         installtype: "zip"
         versions:
-            anarchy-v1.0.0:
-            anarchy-v1.0.1:
-            anarchy-v1.0.2:
-            anarchy-v1.1.0:
-            anarchy-v1.1.1:
-            anarchy-v1.2.0:
             anarchy-v1.2.1:
-            recrux-v1.2.3:
-            recrux-v1.3.0:
             recrux-v1.3.1:
             recrux-v1.4.0:
-    anarchy-mods:
-        name: "Anarchy Mods"
+    BC-DenPipes:
+        name: "BuildCraft - DenPipes"
+        author: "DenOfLions"
+        description: "Valve Pipe and more!"
         installtype: "zip"
+        link: "link"
         versions:
-            v1.0.0:
-            v1.0.1:
-            v1.0.2:
-            v1.1.0:
-            v1.1.1:
-            v1.2.0:
-            v1.2.1:
-    anarchy-config:
+            v6:
+    BC-LogisticsPipes:
+        name: "BuildCraft - Logistics Pipes"
+        author: "The RS485 Team"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v0.7.0.90:
+    bspkrsCore:
+        name: "bspkrs Core"
+        author: "bspkrs"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.01:
+    BuildCraft:
+        name: "BuildCraft"
+        author: "SirSengir"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v3.4.3:
+    ChocoCraft:
+        name: "ChocoCraft"
+        author: "Torojima"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.5.3:
+    CodeChickenCore:
+        name: "Code Chicken Core"
+        author: "chicken_bones"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v0.7.3:
+    CoFHCore:
+        name: "CoFH Core"
+        author: "King Lemming"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.4.7.3:
+    DamageIndicators:
+        name: "Damage Indicators"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.4.1:
+    DimensionalAnchors:
+        name: "Dimensional Anchors"
+        author: "Immibis"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v52.1.9:
+    GregsLighting:
+        name: "Gregs Lighting"
+        author: "Greg Ewing"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.7.1:
+    IC2:
+        name: "IndustrialCraft 2"
+        author: "Alblaka"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.115.218:
+    IC2-AdvancedMachines:
+        name: "IndustrialCraft 2 - Advanced Machines"
+        author: "AtomicStryker"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v4.7b:
+    IC2-AdvancedSolarPanels:
+        name: "IndustrialCraft 2 - Advanced Solar Panels"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v3.3.2:
+    IC2-ChargePads:
+        name: "IndustrialCraft 2 - Charge Pads"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.4.1.66:
+    IC2-GregTech:
+        name: "IndustrialCraft 2 - GregTech"
+        author: "Greg"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.79e:
+    IC2-NuclearControl:
+        name: "IndustrialCraft 2 - Nuclear Control"
+        author: "Shedar"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.4.6:
+    ICBM-Contraption:
+        name: "ICBM - Contraption"
+        author: "Calclavia"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.0.5.166:
+    ICBM-Explosion:
+        name: "ICBM - Explosion"
+        author: "Calclavia"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.0.5.166:
+    ICBM-Sentry:
+        name: "ICBM - Sentry"
+        author: "Calclavia"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.0.5.166:
+    ImmibisCore:
+        name: "Immibis Core"
+        author: "Immibis"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v52.4.4:
+    InvTweaks:
+        name: "Inventory Tweaks"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.50:
+    IronChest:
+        name: "Iron Chests"
+        author: "cpw"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v5.1.0.249:
+    LiquidXP:
+        name: "Liquid XP"
+        author: "Immibis"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v52.0.5:
+    MineFactoryReloaded:
+        name: "MineFactory Reloaded"
+        author: "powercrystals"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.1.4-28:
+    ModularPowerSuits:
+        name: "Modular Power Suits"
+        author: "MachineMuse"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v0.2.2-162:
+    MutantCreatures:
+        name: "Mutant Creatures"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.2.2:
+    NEI:
+        name: "Not Enough Items"
+        author: "chicken_bones"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.4.7.0:
+    NEI-Plugins:
+        name: "NEI Plugins"
+        author: "Mistaqur"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.0.4.5a:
+    NetherOres:
+        name: "Nether Ores"
+        author: "powercrystals"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.0.5-26:
+    ObsidiPlates:
+        name: "Obsidian Pressure Plates"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.2.0.3:
+    PowerConverters:
+        name: "Power Converters"
+        author: "powercrystals"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.2.1-23:
+    PowerCrystalsCore:
+        name: "PowerCrystals Core"
+        author: "powercrystals"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.0.2-22:
+    RailCraft:
+        name: "RailCraft"
+        author: "CovertJaguar"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v6.16.0.0:
+    RecipeRemover:
+        name: "Recipe Remover"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.1:
+    RedPower-Compat:
+        name: "RedPower - Compat"
+        author: "eloraam"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.0pr6:
+    RedPower-Core:
+        name: "RedPower - Core"
+        author: "eloraam"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.0pr6:
+    RedPower-Digital:
+        name: "RedPower - Digital"
+        author: "eloraam"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.0pr6:
+    RedPower-Mechanical:
+        name: "RedPower - Mechanical"
+        author: "eloraam"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.0pr6:
+    ReiMinimap:
+        name: "Rei's Minimap"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v3.2_06:
+    RottenFleshtoLeather-Hardcore:
+        name: "Rotten Flesh to Leather - Hardcore"
+        author: "EpicBlarg"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.4.6:
+    RPTweaks:
+        name: "RP Tweaks"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "http://pastehtml.com/view/cr72r0hhu.html"
+        versions:
+            v4:
+    SecretRooms:
+        name: "Secret Rooms"
+        author: "AbrarSyed"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v4.5.0.191:
+    SoulShards:
+        name: "Soul Shards"
+        author: "author"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.26:
+    StatusEffectHUD:
+        name: "Status Effect HUD"
+        author: "bspkrs"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.9:
+    StevesCarts:
+        name: "Steve's Carts"
+        author: "Vwse"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.0.0.a58:
+    ThaumCraft:
+        name: "ThaumCraft"
+        author: "Azanor"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v3.0.3:
+    ThermalExpansion:
+        name: "Thermal Expansion"
+        author: "King Lemming"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v2.2.2.1:
+    Tubestuff:
+        name: "Tubestuff"
+        author: "Immibis"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v52.3.1:
+    UE-BasicComponents:
+        name: "Universal Electricity - Basic Components"
+        author: "Calclavia"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.2.6.339:
+    WR-CBE-Addons:
+        name: "Wireless Redstone - Chicken Bones Edition - Addons"
+        author: "chicken_bones"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.3.2.8:
+    WR-CBE-Core:
+        name: "Wireless Redstone - Chicken Bones Edition - Core"
+        author: "chicken_bones"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.3.2.8:
+    WR-CBE-RedPower:
+        name: "Wireless Redstone - Chicken Bones Edition - RedPower"
+        author: "chicken_bones"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.3.2.8:
+    z-anarchy-config:
         name: "Anarchy Config"
         installtype: "zip"
         versions:
-            v1.0.0:
-            v1.0.1:
-            v1.0.2:
-            v1.1.0:
-            v1.1.1:
-            v1.2.0:
             v1.2.1:
-    anarchy-resources:
+    z-anarchy-resources:
         name: "Anarchy Resources"
         installtype: "zip"
         versions:
-            v1.0.0:
-            v1.0.1:
-            v1.0.2:
-            v1.1.0:
-            v1.1.1:
-            v1.2.0:
             v1.2.1:
-    recrux-mods:
-        name: "Recrux Mods"
-        installtype: "zip"
-        versions:
-            v1.2.3:
-            v1.3.0:
-            v1.3.1:
-            v1.4.0:
-    recrux-config:
+    z-recrux-config:
         name: "Recrux Config"
         installtype: "zip"
         versions:
-            v1.2.3:
-            v1.3.0:
             v1.3.1:
             v1.4.0:
-    recrux-resources:
+    z-recrux-mods:
+        name: "Recrux Mods"
+        installtype: "zip"
+        versions:
+            v1.3.1:
+            v1.4.0:
+    z-recrux-resources:
         name: "Recrux Resources"
         installtype: "zip"
         versions:
-            v1.2.3:
-            v1.3.0:
             v1.3.1:
             v1.4.0:

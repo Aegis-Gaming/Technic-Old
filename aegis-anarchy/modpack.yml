@@ -17,60 +17,63 @@ builds:
         forge: 527
         mods:
             basemods: anarchy-v1.2.1
-            anarchy-mods: v1.2.1
-            anarchy-config: v1.2.1
-            anarchy-resources: v1.2.1
-    1.2.0:
-        libraries:
-        minecraft: 1.4.7
-        forge: 527
-        mods:
-            basemods: anarchy-v1.2.0
-            anarchy-mods: v1.2.0
-            anarchy-config: v1.2.0
-            anarchy-resources: v1.2.0
-    1.1.1:
-        libraries:
-        minecraft: 1.4.7
-        forge: 524
-        mods:
-            basemods: anarchy-v1.1.1
-            anarchy-mods: v1.1.1
-            anarchy-config: v1.1.1
-            anarchy-resources: v1.1.1
-    1.1.0:
-        libraries:
-        minecraft: 1.4.7
-        forge: 524
-        mods:
-            basemods: anarchy-v1.1.0
-            anarchy-mods: v1.1.0
-            anarchy-config: v1.1.0
-            anarchy-resources: v1.1.0
-    1.0.2:
-        libraries:
-        minecraft: 1.4.7
-        forge: 518
-        mods:
-            basemods: anarchy-v1.0.2
-            anarchy-mods: v1.0.2
-            anarchy-config: v1.0.2
-            anarchy-resources: v1.0.2
-    1.0.1:
-        libraries:
-        minecraft: 1.4.7
-        forge: 518
-        mods:
-            basemods: anarchy-v1.0.1
-            anarchy-mods: v1.0.1
-            anarchy-config: v1.0.1
-            anarchy-resources: v1.0.1
-    1.0.0:
-        libraries:
-        minecraft: 1.4.7
-        forge: 518
-        mods:
-            basemods: anarchy-v1.0.0
-            anarchy-mods: v1.0.0
-            anarchy-config: v1.0.0
-            anarchy-resources: v1.0.0
+            AdvancedRepulsionSystems: v52.0.5
+            AncientWarfare: v0.8.6.133
+            AppliedEnergistics: v7.d
+            ArmorStatusHUD: v1.6
+            BackTools: v1.6v1
+            BalkonsWeaponMod: v1.10.3
+            BC-DenPipes: v6
+            BC-LogisticsPipes: v0.7.0.90
+            bspkrsCore: v1.01
+            BuildCraft: v3.4.3
+            ChocoCraft: v2.5.3
+            CodeChickenCore: v0.7.3
+            CoFHCore: v1.4.7.3
+            DamageIndicators: v2.4.1
+            DimensionalAnchors: v52.1.9
+            GregsLighting: v1.7.1
+            IC2: v1.155.218
+            IC2-AdvancedMachines: v4.7b
+            IC2-AdvancedSolarPanels: v3.3.2
+            IC2-ChargePads: v2.4.1.66
+            IC2-GregTech: v2.79e
+            IC2-NuclearControl: v1.4.6
+            ICBM-Contraption: v1.0.5.166
+            ICBM-Explosion: v1.0.5.166
+            ICBM-Sentry: v1.0.5.166
+            ImmibisCore: v52.4.4
+            InvTweaks: v1.50
+            IronChest: v5.1.0.249
+            LiquidXP: v52.0.5
+            MineFactoryReloaded: v2.1.4-28
+            ModularPowerSuits: v0.2.2-162
+            MutantCreatures: v1.2.2
+            NEI: v1.4.7.0
+            NEI-Plugins: v1.0.4.5a
+            NetherOres: v2.0.5-26
+            ObsidiPlates: v1.2.0.3
+            PowerConverters: v2.2.1-23
+            PowerCrystalsCore: v1.0.2-22
+            RailCraft: v6.16.0.0
+            RecipeRemover: v1.1
+            RedPower-Compat: v2.0pr6
+            RedPower-Core: v2.0pr6
+            RedPower-Digital: v2.0pr6
+            RedPower-Mechanical: v2.0pr6
+            ReiMinimap: v3.2_06
+            RottenFleshtoLeather-Hardcore: v1.4.6
+            RPTweaks: v4
+            SecretRooms: v4.5.0.191
+            SoulShards: v1.26
+            StatusEffectHUD: v1.9
+            StevesCarts: v2.0.0.a58
+            ThaumCraft: v3.0.3
+            ThermalExpansion: v2.2.2.1
+            Tubestuff: v52.3.1
+            UE-BasicComponents: v1.2.6.339
+            WR-CBE-Addons: v1.3.2.8
+            WR-CBE-Core: v1.3.2.8
+            WR-CBE-RedPower: v1.3.2.8
+            z-anarchy-config: v1.2.1
+            z-anarchy-resources: v1.2.1

@@ -17,16 +17,16 @@ builds:
         forge: 524
         mods:
             basemods: recrux-v1.3.1
-            recrux-mods: v1.3.1
-            recrux-config: v1.3.1
-            recrux-resources: v1.3.1
+            z-recrux-mods: v1.3.1
+            z-recrux-config: v1.3.1
+            z-recrux-resources: v1.3.1
     1.4.0:
         libraries:
         minecraft: 1.4.7
         forge: 524
         mods:
             basemods: recrux-v1.4.0
-            recrux-mods: v1.4.0
-            recrux-config: v1.4.0
-            recrux-resources: v1.4.0
+            z-recrux-mods: v1.4.0
+            z-recrux-config: v1.4.0
+            z-recrux-resources: v1.4.0
 
