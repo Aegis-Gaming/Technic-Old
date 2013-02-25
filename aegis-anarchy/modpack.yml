@@ -51,8 +51,10 @@ builds:
             MutantCreatures: v1.2.2
             NEI: v1.4.7.0
             NEI-Plugins: v1.0.4.5a
+            NEI-RedPower: v1.4.3.1
             NetherOres: v2.0.5-26
             ObsidiPlates: v1.2.0.3
+            OmniTools: v3.0.3
             PowerConverters: v2.2.1-23
             PowerCrystalsCore: v1.0.2-22
             RailCraft: v6.16.0.0

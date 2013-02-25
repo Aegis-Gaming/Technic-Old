@@ -278,6 +278,14 @@ mods:
         link: "link"
         versions:
             v1.0.4.5a:
+    NEI-RedPower:
+        name: "NEI RedPower Plugin"
+        author: "chicken_bones"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.4.3.1:
     NetherOres:
         name: "Nether Ores"
         author: "powercrystals"
@@ -294,6 +302,15 @@ mods:
         link: "link"
         versions:
             v1.2.0.3:
+    OmniTools:
+        name: "OmniTools"
+        author: "King Lemming"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v3.0.4:
+            v3.0.3:
     PowerConverters:
         name: "Power Converters"
         author: "powercrystals"
