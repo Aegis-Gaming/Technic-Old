@@ -144,6 +144,14 @@ mods:
         link: "link"
         versions:
             v1.4.7.3:
+    ComputerCraft:
+        name: "ComputerCraft
+        author: "dan200"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.5:
     DamageIndicators:
         name: "Damage Indicators"
         author: "rich1051414"
@@ -186,8 +194,8 @@ mods:
         link: "http://forestry.sengir.net/wiki.new/doku.php?id=start/"
         versions:
             v2.0.0.11:
-    ExtraBees:
-        name: "Extra Bees"
+    Forestry-ExtraBees:
+        name: "Extra Bees for Forestry"
         author: "binnie"
         description: "Extra Bees is a plugin for the Forestry Mod for Minecraft, and adds many new bee species, as well as a swathe of machines to store and manipulate them."
         installtype: "zip"
@@ -447,6 +455,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v1.0.4.5a:
             v1.4.3.1:
     NEI-RedPower:
         name: "NEI RedPower"
@@ -455,7 +464,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
-            v1.0.4.5a:
+            v1.4.3.1:
     NetherOres:
         name: "Nether Ores"
         author: "powercrystals"
@@ -637,8 +646,8 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
-            v2.2.2.1:
             v2.2.2.2:
+            v2.2.2.1:
     Tubestuff:
         name: "Tubestuff"
         author: "Immibis"
