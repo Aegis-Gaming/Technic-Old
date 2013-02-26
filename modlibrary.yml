@@ -14,6 +14,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v0.8.7.135:
             v0.8.6.133:
     AppliedEnergistics:
         name: "Applied Energistics"
@@ -22,6 +23,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v8.c:
             v7.d:
     ArmorStatusHUD:
         name: "Armor Status HUD"
@@ -51,6 +53,7 @@ mods:
         name: "Jar modification Mods"
         installtype: "zip"
         versions:
+            anarchy-v1.2.2:
             anarchy-v1.2.1:
             recrux-v1.3.1:
             recrux-v1.4.0:
@@ -117,6 +120,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v2.4.2:
             v2.4.1:
     DimensionalAnchors:
         name: "Dimensional Anchors"
@@ -173,6 +177,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v2.80c:
             v2.79e:
     IC2-NuclearControl:
         name: "IndustrialCraft 2 - Nuclear Control"
@@ -213,6 +218,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v52.4.5:
             v52.4.4:
     InvTweaks:
         name: "Inventory Tweaks"
@@ -237,6 +243,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v52.0.6:
             v52.0.5:
     MineFactoryReloaded:
         name: "MineFactory Reloaded"
@@ -253,6 +260,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v0.3.0-178:
             v0.2.2-162:
     MutantCreatures:
         name: "Mutant Creatures"
@@ -406,6 +414,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v4.5.0.198:
             v4.5.0.191:
     SoulShards:
         name: "Soul Shards"
@@ -430,6 +439,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v2.0.0.a60:
             v2.0.0.a58:
     ThaumCraft:
         name: "ThaumCraft"
@@ -446,6 +456,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v2.2.2.2:
             v2.2.2.1:
     Tubestuff:
         name: "Tubestuff"
@@ -491,11 +502,13 @@ mods:
         name: "Anarchy Config"
         installtype: "zip"
         versions:
+            v1.2.2:
             v1.2.1:
     z-anarchy-resources:
         name: "Anarchy Resources"
         installtype: "zip"
         versions:
+            v1.2.2:
             v1.2.1:
     z-recrux-config:
         name: "Recrux Config"
