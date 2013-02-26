@@ -1,7 +1,7 @@
 launcher: 
 current: 
-recommended: 1.4.0
-latest: 1.4.0
+recommended: 1.5.0
+latest: 1.5.0
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,22 +11,65 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    1.3.1:
+    1.5.0:
         libraries:
         minecraft: 1.4.7
-        forge: 524
+        forge: 533
         mods:
-            basemods: recrux-v1.3.1
-            z-recrux-mods: v1.3.1
-            z-recrux-config: v1.3.1
-            z-recrux-resources: v1.3.1
-    1.4.0:
-        libraries:
-        minecraft: 1.4.7
-        forge: 524
-        mods:
-            basemods: recrux-v1.4.0
-            z-recrux-mods: v1.4.0
-            z-recrux-config: v1.4.0
-            z-recrux-resources: v1.4.0
-
+            basemods: recrux-v1.5.0
+            ArmorStatusHUD: v1.6
+            BackTools: v1.6v1
+            BC-ABO: v1.0.1.88
+            BC-DenPipes: v6
+            BC-LogisticsPipes: v0.7.0.90
+            BechillTPS: v0.4.1.1
+            BetterStorage: v0.4.2
+            BiblioCraft: v1.0.2
+            bspkrsCore: v1.01
+            BuildCraft: v3.4.3
+            CodeChickenCore: v0.7.3
+            CoFHCore: v1.4.7.3
+            ComputerCraft: v1.5
+            DamageIndicators: v2.4.2recrux
+            F4113nC0r3: v4.0.5
+            FancyGlass: v1.0.3
+            Forestry: v2.0.0.11
+            Forestry-ExtraBees: v1.5.0.3
+            GregsLighting: v1.7.1
+            IC2: v1.155.229
+            IC2-APM: v1.1.55
+            IC2-ChargePads: v2.4.1.66
+            IC2-DeFence: v3.3.2
+            IC2-GregTech: v2.80c
+            IC2-NuclearControl: v1.4.6
+            IC2-PetroGen: v1.2.1
+            IC2-Quantumpack: v1.06
+            InfernalMobs: v1.4.6
+            Lanterns: v1.1.5
+            LiquidRelay: v1.4.7
+            LiquidUU: v0.7.12b
+            Metallurgy: v2.4.2
+            MineChem: v2.0.0pr6.1
+            MineFactoryReloaded: v2.2.0B1-88
+            NEI: v1.4.7.0
+            NEI_Forestry: v1.4.7
+            NEI-Plugins: v1.0.4.5a
+            NEI-RedPower: v1.4.3.1
+            NetherOres: v2.0.5-28
+            ObsidiPlates: v1.2.0.3
+            OmniTools: v3.0.4
+            OpenCCSensors: v0.1.4
+            PowerConverters: v2.2.2B1-26
+            PowerCrystalsCore: v1.0.3B1-30
+            ProjectZulu: v0.6.3b
+            RailCraft: v6.16.0.0
+            RecipeRemover: v1.1
+            RedPower-Compat: v2.0pr6
+            RedPower-Core: v2.0pr6
+            RedPower-Digital: v2.0pr6
+            RedPower-Mechanical: v2.0pr6
+            RPTweaks: v4
+            StatusEffectHUD: v1.9
+            ThermalExpansion: v2.2.2.2
+            z-anarchy-config: v1.5.0
+            z-anarchy-resources: v1.5.0
