@@ -1,12 +1,4 @@
 mods:
-    IC2-APM:
-        name: "Advanced Power Management"
-        author: "Pantheis"
-        description: "This mod adds several new blocks to Industrial Craft 2 to help you manage your energy grid. The scope of the mod has expanded since the original version, and it is no longer named for the single block it originally added. You will now find contained herein for your crafting enjoyment the following high quality devices: The Charging Bench, the Battery Station, and the Storage Monitor (plus the Adjustable Emitter for creative play)."
-        installtype: "zip"
-        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900&pageNo=1/"
-        versions:
-            v1.1.55:
     AdvancedRepulsionSystems:
         name: "Advanced Repulsion"
         author: "immibis"
@@ -22,6 +14,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v0.8.7.135:
             v0.8.6.133:
     AppliedEnergistics:
         name: "Applied Energistics"
@@ -30,6 +23,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v8.c:
             v7.d:
     ArmorStatusHUD:
         name: "Armor Status HUD"
@@ -59,6 +53,7 @@ mods:
         name: "Jar modification Mods"
         installtype: "zip"
         versions:
+            anarchy-v1.2.2:
             anarchy-v1.2.1:
             recrux-v1.5.0:
     BC-ABO:
@@ -157,7 +152,6 @@ mods:
         link: "http://www.minecraftforum.net/topic/1536685-146147forge-hit-splat-damage-indicators-v241-displays-mob-portrait-preview-with-current-health-now-fully-3rd-party-mod-compatible/"
         versions:
             v2.4.1:
-            v2.4.1:
             v2.4.2recrux:
     DimensionalAnchors:
         name: "Dimensional Anchors"
@@ -232,6 +226,14 @@ mods:
         link: "link"
         versions:
             v3.3.2:
+    IC2-APM:
+        name: "Advanced Power Management"
+        author: "Pantheis"
+        description: "This mod adds several new blocks to Industrial Craft 2 to help you manage your energy grid. The scope of the mod has expanded since the original version, and it is no longer named for the single block it originally added. You will now find contained herein for your crafting enjoyment the following high quality devices: The Charging Bench, the Battery Station, and the Storage Monitor (plus the Adjustable Emitter for creative play)."
+        installtype: "zip"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900&pageNo=1/"
+        versions:
+            v1.1.55:
     IC2-DeFence:
         name: "IndustrialCraft 2 - DeFence"
         author: "author"
@@ -320,6 +322,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v52.4.5:
             v52.4.4:
     InvTweaks:
         name: "Inventory Tweaks"
@@ -368,6 +371,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v52.0.6:
             v52.0.5:
     Metallurgy:
         name: "Metallurgy"
@@ -401,6 +405,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v0.3.0-178:
             v0.2.2-162:
     MoreBows:
         name: "Mutant Creatures"
@@ -428,7 +433,7 @@ mods:
             v1.4.7.0:
     NEI-Forestry:
         name: "NEI Forestry"
-        author: "unknown"
+        author: "smbarbour"
         description: "description"
         installtype: "zip"
         link: "link"
@@ -437,6 +442,14 @@ mods:
     NEI-Plugins:
         name: "NEI Plugins"
         author: "Mistaqur"
+        description: "description"
+        installtype: "zip"
+        link: "link"
+        versions:
+            v1.4.3.1:
+    NEI-RedPower:
+        name: "NEI RedPower"
+        author: "ChickenBones"
         description: "description"
         installtype: "zip"
         link: "link"
@@ -467,6 +480,7 @@ mods:
         link: "http://thermalexpansion.wikispaces.com/OmniTools"
         versions:
             v3.0.4:
+            v3.0.3:
     OpenCCSensors:
         name: "OpenCCSensors"
         author: "Cloudhunter, Mikeemoo, Orwell1984, Lyqyd, Nietsnie"
@@ -580,6 +594,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v4.5.0.198:
             v4.5.0.191:
     SoulShards:
         name: "Soul Shards"
@@ -604,6 +619,7 @@ mods:
         installtype: "zip"
         link: "link"
         versions:
+            v2.0.0.a60:
             v2.0.0.a58:
     ThaumCraft:
         name: "ThaumCraft"
@@ -666,11 +682,13 @@ mods:
         name: "Anarchy Config"
         installtype: "zip"
         versions:
+            v1.2.2:
             v1.2.1:
     z-anarchy-resources:
         name: "Anarchy Resources"
         installtype: "zip"
         versions:
+            v1.2.2:
             v1.2.1:
     z-recrux-config:
         name: "Recrux Config"
