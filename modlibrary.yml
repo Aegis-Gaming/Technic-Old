@@ -456,7 +456,6 @@ mods:
         link: "link"
         versions:
             v1.0.4.5a:
-            v1.4.3.1:
     NEI-RedPower:
         name: "NEI RedPower"
         author: "ChickenBones"
