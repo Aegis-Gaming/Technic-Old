@@ -1,7 +1,7 @@
 mods:
     AdvancedRepulsionSystems:
-        name: "Advanced Repulsion"
-        author: "immibis"
+        name: "Advanced Repulsion Systems"
+        author: "Immibis"
         description: "Adds various forcefields."
         installtype: "zip"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=6874&pageNo=1&s=d8d0efe9a7a41dd4331bfc6ec483ae6e0536250c"
@@ -9,50 +9,53 @@ mods:
             v52.0.5:
     AncientWarfare:
         name: "Ancient Warfare (Catapult Mod)"
-        author: "author"
-        description: "description"
+        author: "Shadowmage4513"
+        description: "New dungeons, catapults, soldiers and explosives!"
         installtype: "zip"
-        link: "link"
+        link: "http://ancientwarfare.wikispaces.com/"
         versions:
             v0.8.7.135:
             v0.8.6.133:
     AppliedEnergistics:
         name: "Applied Energistics"
-        author: "author"
-        description: "description"
+        author: "AlgorithmX2"
+        description: "Applied Energistics is a Minecraft Mod which contains some basic tools, some electric tools, and an advanced storage system called ME that lets you store items compactly, and in the way you want."
         installtype: "zip"
-        link: "link"
+        link: "http://ae-mod.info/"
         versions:
             v8.c:
             v7.d:
     ArmorStatusHUD:
         name: "Armor Status HUD"
         author: "bspkrs"
-        description: "description"
+        description: "Displays your currently equipped armor and held item along with the durability remaining without having to open your inventory!"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1114612-"
         versions:
             v1.6:
     BackTools:
         name: "Back Tools"
         author: "iChun"
-        description: "description"
+        description: "Like its name it shows some tools on the back of the player. These tools are based on the last equipped tool that the player had."
         installtype: "zip"
-        link: "link"
+        link: "http://ichun.us/mods/back-tools/"
         versions:
             v1.4.6v1:
     BalkonsWeaponMod:
         name: "Balkon's Weapon Mod"
-        author: "author"
-        description: "description"
+        author: "BalkondeurAlpha"
+        description: "Adds several weapons and explosives to kill your fellow player with!"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/211517-"
         versions:
             v1.10.3:
     basemods:
-        name: "Jar modification Mods"
+        name: "Minecraft Forge"
+        author: "LexManos/cpw"
         installtype: "zip"
+        link: "http://www.minecraftforge.net/"
         versions:
+            anarchy-v1.3.0:
             anarchy-v1.2.2:
             anarchy-v1.2.1:
             recrux-v1.5.1:
@@ -83,9 +86,9 @@ mods:
     bspkrsCore:
         name: "bspkrs Core"
         author: "bspkrs"
-        description: "description"
+        description: "Contains core classes used in all bspkrs mods."
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1114612-"
         versions:
             v1.01:
     BechillTPS:
@@ -115,25 +118,25 @@ mods:
     BuildCraft:
         name: "BuildCraft"
         author: "SirSengir"
-        description: "description"
+        description: "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!"
         installtype: "zip"
-        link: "link"
+        link: "http://www.mod-buildcraft.com/"
         versions:
             v3.4.3:
     ChocoCraft:
         name: "ChocoCraft"
         author: "Torojima"
-        description: "description"
+        description: "This mod adds a mob called Chocobo to the game. This includes different coloured mob types with different attributes in their grown-up and juvenile form."
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1119809-"
         versions:
             v2.5.3:
     CodeChickenCore:
         name: "Code Chicken Core"
         author: "chicken_bones"
-        description: "description"
+        description: "Just a library of classes that all chicken_bones mods use"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/909223-"
         versions:
             v0.7.3:
     CoFHCore:
@@ -141,7 +144,7 @@ mods:
         author: "King Lemming"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://thermalexpansion.wikispaces.com/Downloads"
         versions:
             v1.4.7.3:
     ComputerCraft:
@@ -149,7 +152,7 @@ mods:
         author: "dan200"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.computercraft.info/"
         versions:
             v1.5:
     DamageIndicators:
@@ -167,7 +170,7 @@ mods:
         author: "Immibis"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1001131-"
         versions:
             v52.1.9:
     F4113nC0r3:
@@ -208,7 +211,7 @@ mods:
         author: "Greg Ewing"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/"
         versions:
             v1.7.1:
     IC2:
@@ -216,7 +219,7 @@ mods:
         author: "Alblaka"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.industrial-craft.net/"
         versions:
             v1.115.218:
             v1.115.229:
@@ -225,15 +228,15 @@ mods:
         author: "AtomicStryker"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907"
         versions:
             v4.7b:
     IC2-AdvancedSolarPanels:
         name: "IndustrialCraft 2 - Advanced Solar Panels"
-        author: "author"
+        author: "SeNtiMeL"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291"
         versions:
             v3.3.2:
     IC2-APM:
@@ -246,7 +249,7 @@ mods:
             v1.1.55:
     IC2-DeFence:
         name: "IndustrialCraft 2 - DeFence"
-        author: "author"
+        author: "F4113nb34st"
         description: "Adds link fences"
         installtype: "zip"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=2811"
@@ -254,18 +257,18 @@ mods:
             v3.3.2:
     IC2-ChargePads:
         name: "IndustrialCraft 2 - Charge Pads"
-        author: "author"
+        author: "Myrathi"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892"
         versions:
             v2.4.1.66:
     IC2-GregTech:
         name: "IndustrialCraft 2 - GregTech"
-        author: "Greg"
+        author: "GregoriusT"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156"
         versions:
             c2.80d:
             v2.80c:
@@ -275,7 +278,7 @@ mods:
         author: "Shedar"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915"
         versions:
             v1.4.6:
     IC2-PetroGen:
@@ -299,7 +302,7 @@ mods:
         author: "Calclavia"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://universalelectricity.com/?m=icbm"
         versions:
             v1.0.5.166:
     ICBM-Explosion:
@@ -307,7 +310,7 @@ mods:
         author: "Calclavia"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://universalelectricity.com/?m=icbm"
         versions:
             v1.0.5.166:
     ICBM-Sentry:
@@ -315,7 +318,7 @@ mods:
         author: "Calclavia"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://universalelectricity.com/?m=icbm"
         versions:
             v1.0.5.166:
     InfernalMobs:
@@ -331,16 +334,16 @@ mods:
         author: "Immibis"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1001131-"
         versions:
             v52.4.5:
             v52.4.4:
     InvTweaks:
         name: "Inventory Tweaks"
-        author: "author"
+        author: "jimeowan"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/323444-"
         versions:
             v1.50:
     IronChest:
@@ -348,7 +351,7 @@ mods:
         author: "cpw"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/981855-"
         versions:
             v5.1.0.249:
     Lanterns:
@@ -380,7 +383,7 @@ mods:
         author: "Immibis"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1001131-"
         versions:
             v52.0.6:
             v52.0.5:
@@ -392,6 +395,14 @@ mods:
         link: "http://www.minecraftforum.net/topic/744918-146132forgebukkitsmp-metallurgy-2-242-putting-the-mine-back-in-minecraft/"
         versions:
             v2.4.2:
+    MFFS:
+        name: "Modular Forcefield Systems"
+        author: "Thunderdark/Calclavia"
+        description: "description"
+        installtype: "zip"
+        link: "http://universalelectricity.com/?m=mffs"
+        versions:
+            v2.2.8.3.6:
     MineChem:
         name: "MineChem"
         author: "ljdp"
@@ -405,7 +416,7 @@ mods:
         author: "powercrystals"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
             v2.2.0B1-100:
             v2.2.0B1-88:
@@ -415,7 +426,7 @@ mods:
         author: "MachineMuse"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://machinemuse.net/"
         versions:
             v0.3.0-178:
             v0.2.2-162:
@@ -429,23 +440,23 @@ mods:
             v1.4.7:
     MutantCreatures:
         name: "Mutant Creatures"
-        author: "author"
+        author: "thehippomaster21"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1336132-"
         versions:
             v1.2.2:
     NEI:
         name: "Not Enough Items"
         author: "chicken_bones"
-        description: "description"
+        description: "A great tool to look up recipes and spawn items in, complete with SEARCH!"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/909223-"
         versions:
             v1.4.7.0:
     NEI-Forestry:
         name: "NEI Forestry"
-        author: "smbarbour"
+        author: "author"
         description: "description"
         installtype: "zip"
         link: "link"
@@ -454,17 +465,17 @@ mods:
     NEI-Plugins:
         name: "NEI Plugins"
         author: "Mistaqur"
-        description: "description"
+        description: "Adds NEI support for many mods. Including BuildCraft, IndustrialCraft, RailCraft, Forestry and MORE!"
         installtype: "zip"
-        link: "link"
+        link: "https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
         versions:
             v1.0.4.5a:
     NEI-RedPower:
         name: "NEI RedPower"
         author: "ChickenBones"
-        description: "description"
+        description: "Adds RedPower mircoblocks and items to NEI."
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/909223-"
         versions:
             v1.4.3.1:
     NetherOres:
@@ -472,16 +483,16 @@ mods:
         author: "powercrystals"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
             v2.0.5-26:
             v2.0.5-28:
     ObsidiPlates:
         name: "Obsidian Pressure Plates"
-        author: "author"
-        description: "description"
+        author: "Myrathi"
+        description: "The idea of obsidian pressure plates is basicly players can activate them but mobs can't. :)"
         installtype: "zip"
-        link: "link"
+        link: "http://forum.feed-the-beast.com/threads/obsidian-pressure-plates.755/"
         versions:
             v1.2.0.3:
     OmniTools:
@@ -506,7 +517,7 @@ mods:
         author: "powercrystals"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
             v2.2.1-23:
             v2.2.2B1-26:
@@ -515,7 +526,7 @@ mods:
         author: "powercrystals"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
             v1.0.3B1-33:
             v1.0.3B1-30:
@@ -534,15 +545,15 @@ mods:
         author: "CovertJaguar"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.railcraft.info/"
         versions:
             v6.16.0.0:
     RecipeRemover:
         name: "Recipe Remover"
-        author: "author"
-        description: "description"
+        author: "ShadwDrgn"
+        description: "Removes recipes..."
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1475847-"
         versions:
             v1.1:
     RedPower-Compat:
@@ -550,7 +561,7 @@ mods:
         author: "eloraam"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.eloraam.com/"
         versions:
             v2.0pr6:
     RedPower-Core:
@@ -558,7 +569,7 @@ mods:
         author: "eloraam"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.eloraam.com/"
         versions:
             v2.0pr6:
     RedPower-Digital:
@@ -566,7 +577,7 @@ mods:
         author: "eloraam"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.eloraam.com/"
         versions:
             v2.0pr6:
     RedPower-Mechanical:
@@ -574,29 +585,28 @@ mods:
         author: "eloraam"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.eloraam.com/"
         versions:
             v2.0pr6:
     ReiMinimap:
         name: "Rei's Minimap"
-        author: "author"
+        author: "ReiFNSK"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/482147-"
         versions:
             v3.2_06:
     RottenFleshtoLeather-Hardcore:
         name: "Rotten Flesh to Leather - Hardcore"
-        author: "EpicBlarg"
-        description: "description"
+        author: "EpicBlargh"
+        description: "Turn rotten flesh into leather in a furnace :O"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1487712-"
         versions:
             v1.4.6:
     RPTweaks:
         name: "RP Tweaks"
-        author: "author"
-        description: "description"
+        description: "A Minecraft Forge coremod that addresses a few inconveniences with RedPower 2 prerelease 6."
         installtype: "zip"
         link: "http://pastehtml.com/view/cr72r0hhu.html"
         versions:
@@ -604,43 +614,44 @@ mods:
     SecretRooms:
         name: "Secret Rooms"
         author: "AbrarSyed"
-        description: "description"
+        description: "Adds a variety of cool blocks that camouflage themselves to the surrounding world. All of these blocks have extremely useful functions that allow you to simply hide your diamonds, or punish all who dare try to get to them."
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/546192-"
         versions:
+            v4.5.0.199:
             v4.5.0.198:
             v4.5.0.191:
     SoulShards:
         name: "Soul Shards"
-        author: "author"
-        description: "description"
+        author: "ShadwDrgn"
+        description: "Allows you to create a Soul Shard that absorbs the souls of monsters you kill to be inserted into a Soul Cage later."
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1475847-"
         versions:
             v1.26:
     StatusEffectHUD:
         name: "Status Effect HUD"
         author: "bspkrs"
-        description: "description"
+        description: "Displays your currently active potions/effects without having to open your inventory!"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1114612-"
         versions:
             v1.9:
     StevesCarts:
         name: "Steve's Carts"
         author: "Vwse"
-        description: "description"
+        description: "Adds modular carts to Minecraft! Features include but are in no way limited to drills, railers, solar panels, storages, wheat farmers, dynamite carriers, seats with steering ability, shields and shooters."
         installtype: "zip"
-        link: "link"
+        link: "http://stevescarts2.wikispaces.com/"
         versions:
             v2.0.0.a60:
             v2.0.0.a58:
     ThaumCraft:
         name: "ThaumCraft"
         author: "Azanor"
-        description: "description"
+        description: "Magic in Minecraft, with DANGEROUS side-effects!"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1585216-"
         versions:
             v3.0.3:
     ThermalExpansion:
@@ -648,7 +659,7 @@ mods:
         author: "King Lemming"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://thermalexpansion.wikispaces.com/"
         versions:
             v2.2.2.2:
             v2.2.2.1:
@@ -657,15 +668,15 @@ mods:
         author: "Immibis"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/1001131-"
         versions:
             v52.3.1:
     UE-BasicComponents:
         name: "Universal Electricity - Basic Components"
         author: "Calclavia"
-        description: "description"
+        description: "Universal Electricity is a modular coding framework that allows the use of electricity in Minecraft."
         installtype: "zip"
-        link: "link"
+        link: "http://universalelectricity.com/"
         versions:
             v1.2.6.339:
     WR-CBE-Addons:
@@ -673,7 +684,7 @@ mods:
         author: "chicken_bones"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/909223-"
         versions:
             v1.3.2.8:
     WR-CBE-Core:
@@ -681,7 +692,7 @@ mods:
         author: "chicken_bones"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/909223-"
         versions:
             v1.3.2.8:
     WR-CBE-RedPower:
@@ -689,28 +700,34 @@ mods:
         author: "chicken_bones"
         description: "description"
         installtype: "zip"
-        link: "link"
+        link: "http://www.minecraftforum.net/topic/909223-"
         versions:
             v1.3.2.8:
     z-anarchy-config:
         name: "Anarchy Config"
+        author: "vidplace7"
         installtype: "zip"
         versions:
+            v1.3.0:
             v1.2.2:
             v1.2.1:
     z-anarchy-resources:
         name: "Anarchy Resources"
+        author: "vidplace7"
         installtype: "zip"
         versions:
+            v1.3.0:
             v1.2.2:
             v1.2.1:
     z-recrux-config:
         name: "Recrux Config"
+        author: "Radus"
         installtype: "zip"
         versions:
             v1.5.1:
     z-recrux-resources:
         name: "Recrux Resources"
+        author: "Radus"
         installtype: "zip"
         versions:
             v1.5.1:
