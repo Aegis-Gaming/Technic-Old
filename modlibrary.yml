@@ -270,7 +270,7 @@ mods:
         installtype: "zip"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156"
         versions:
-            c2.80d:
+            v2.80d:
             v2.80c:
             v2.79e:
     IC2-NuclearControl:
