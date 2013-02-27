@@ -2,9 +2,9 @@ mods:
     AdvancedRepulsionSystems:
         name: "Advanced Repulsion"
         author: "immibis"
-        description: "example"
+        description: "Adds various forcefields."
         installtype: "zip"
-        link: "example"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=6874&pageNo=1&s=d8d0efe9a7a41dd4331bfc6ec483ae6e0536250c"
         versions:
             v52.0.5:
     AncientWarfare:
@@ -55,7 +55,7 @@ mods:
         versions:
             anarchy-v1.2.2:
             anarchy-v1.2.1:
-            recrux-v1.5.0:
+            recrux-v1.5.1:
     BC-ABO:
         name: "BuildCraft - Additional BuildCraft Objects"
         author: "Flow86"
@@ -145,7 +145,7 @@ mods:
         versions:
             v1.4.7.3:
     ComputerCraft:
-        name: "ComputerCraft
+        name: "ComputerCraft"
         author: "dan200"
         description: "description"
         installtype: "zip"
@@ -703,9 +703,9 @@ mods:
         name: "Recrux Config"
         installtype: "zip"
         versions:
-            v1.5.0:
+            v1.5.1:
     z-recrux-resources:
         name: "Recrux Resources"
         installtype: "zip"
         versions:
-            v1.5.0:
+            v1.5.1:

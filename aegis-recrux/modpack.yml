@@ -1,7 +1,7 @@
 launcher: 
 current: 
-recommended: 1.5.0
-latest: 1.5.0
+recommended: 1.5.1
+latest: 1.5.1
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,12 +11,12 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    1.5.0:
+    1.5.1:
         libraries:
         minecraft: 1.4.7
-        forge: 533
+        forge: 534
         mods:
-            basemods: recrux-v1.5.0
+            basemods: recrux-v1.5.1
             ArmorStatusHUD: v1.6
             BackTools: v1.6v1
             BC-ABO: v1.0.1.88
@@ -68,8 +68,9 @@ builds:
             RedPower-Core: v2.0pr6
             RedPower-Digital: v2.0pr6
             RedPower-Mechanical: v2.0pr6
+            ReiMinimap: v3.2_06
             RPTweaks: v4
             StatusEffectHUD: v1.9
             ThermalExpansion: v2.2.2.2
-            z-recrux-config: v1.5.0
-            z-recrux-resources: v1.5.0
+            z-recrux-config: v1.5.1
+            z-recrux-resources: v1.5.1
