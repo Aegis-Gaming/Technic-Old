@@ -362,6 +362,14 @@ mods:
         link: "http://www.minecraftforum.net/topic/1535985-146-147-forge-smp-lanterns-115/"
         versions:
             v1.1.5:
+    LiquidMetals:
+        name: "Liquid Metals"
+        author: "fred4106"
+        description: "Liquid Metals is a mod about new ways to process and store ore. It allows ores to be processed and melted and finally moved around with buildcraft's liquid pipes."
+        installtype: "zip"
+        link: "http://www.minecraftforum.net/topic/1614036-1467-bc-addon-liquid-metals-0116/"
+        versions:
+            v0.1.16:
     LiquidRelay:
         name: "Liquid Relay"
         author: "dmillerw"
@@ -528,6 +536,7 @@ mods:
         installtype: "zip"
         link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
+            v1.0.3B1-33b:
             v1.0.3B1-33:
             v1.0.3B1-30:
             v1.0.2-22:
@@ -663,6 +672,14 @@ mods:
         versions:
             v2.2.2.2:
             v2.2.2.1:
+    TreeCapitator:
+        name: "TreeCapitator"
+        author: "bspkrs"
+        description: "This mod allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Based on Terraria tree-cutting style."
+        installtype: "zip"
+        link: "http://www.minecraftforum.net/topic/1009577-147-daftpvfs-mods-treecapitator-ingameinfo-crystalwing-startinginv-floatingruins/"
+        versions:
+            v1.4.6.r07:
     Tubestuff:
         name: "Tubestuff"
         author: "Immibis"
