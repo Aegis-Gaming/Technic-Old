@@ -59,6 +59,8 @@ mods:
             anarchy-v1.2.2:
             anarchy-v1.2.1:
             recrux-v1.5.1:
+            recrux-v1.5.2:
+            recrux-v1.5.3:
     BC-ABO:
         name: "BuildCraft - Additional BuildCraft Objects"
         author: "Flow86"
@@ -742,9 +744,13 @@ mods:
         installtype: "zip"
         versions:
             v1.5.1:
+            v1.5.2:
+            v1.5.3:
     z-recrux-resources:
         name: "Recrux Resources"
         author: "Radus"
         installtype: "zip"
         versions:
             v1.5.1:
+            v1.5.2:
+            v1.5.3:
