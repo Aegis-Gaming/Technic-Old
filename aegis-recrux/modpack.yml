@@ -335,7 +335,7 @@ builds:
             UE-BasicComponents: v1.2.6.339
             z-recrux-config: v1.6.0
             z-recrux-resources: v1.6.0
-    1.6.0:
+    1.6.1:
         libraries:
         minecraft: 1.4.7
         forge: 534
