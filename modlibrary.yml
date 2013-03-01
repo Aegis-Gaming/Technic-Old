@@ -102,6 +102,7 @@ mods:
         link: "http://logisticspipes.wikia.com/wiki/Logistics_Pipes_Wiki"
         versions:
             v0.7.0.90:
+            v0.7.0.91:
     bspkrsCore:
         name: "bspkrs Core"
         author: "bspkrs"
@@ -305,6 +306,7 @@ mods:
         installtype: "zip"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156"
         versions:
+            v2.80e:
             v2.80d:
             v2.80c:
             v2.79e:
@@ -575,6 +577,7 @@ mods:
         link: "http://www.railcraft.info/"
         versions:
             v6.16.0.0:
+            v6.17.0.0:
     RecipeRemover:
         name: "Recipe Remover"
         author: "ShadwDrgn"
