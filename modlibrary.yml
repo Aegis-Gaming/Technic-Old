@@ -33,6 +33,22 @@ mods:
         link: "http://www.minecraftforum.net/topic/1114612-"
         versions:
             v1.6:
+    AssemblyLine:
+        name: "Assembly Line"
+        author: "Briman0094, Calclavia, DarkGuardsman"
+        description: " The Assembly Line mod introduces you to conveyor belts, various item manipulation blocks and brings your machines together."
+        installtype: "zip"
+        link: "http://www.universalelectricity.com/?m=assembly_line"
+        versions:
+            v0.2.7.85:
+    AtomicScience:
+        name: "Atomic Science"
+        author: "Calclavia"
+        description: "Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electrical problems! With our fission reactors, fusion reactors, antimatter particle accelerators, you won't be short of electricity ever again!"
+        installtype: "zip"
+        link: "http://www.universalelectricity.com/?m=atomic_science"
+        versions:
+            v0.4.1.162:			
     BackTools:
         name: "Back Tools"
         author: "iChun"
@@ -61,6 +77,7 @@ mods:
             recrux-v1.5.1:
             recrux-v1.5.2:
             recrux-v1.5.3:
+            recrux-v1.6.0:
     BC-ABO:
         name: "BuildCraft - Additional BuildCraft Objects"
         author: "Flow86"
@@ -175,6 +192,14 @@ mods:
         link: "http://www.minecraftforum.net/topic/1001131-"
         versions:
             v52.1.9:
+    DungeonPack:
+        name: "Dungeon Pack"
+        author: "Stuuupiiid"
+        description: "Adds dungeons."
+        installtype: "zip"
+        link: "http://www.minecraftforum.net/topic/1340914-147smpbukkitforgedungeonpack24-dungeons3-bosses2-npc-villages30000-updated/"
+        versions:
+            v1:
     F4113nC0r3:
         name: "Gregs Lighting"
         author: "F411enb34st"
@@ -191,6 +216,14 @@ mods:
         link: "http://www.minecraftforum.net/topic/1653291-1467-forge-fancy-glass-v103/"
         versions:
             v1.0.3:
+    FluidMechanics:
+        name: "Fluid Mechanics"
+        author: "DarkGuardsman"
+        description: " As part of the Fluid part of the name this mod is about managing and moving varies liquids as need. To do this the mod adds pipes, tanks, and machines along the lines to do just that."
+        installtype: "zip"
+        link: "http://www.universalelectricity.com/?m=fluid_mechanics"
+        versions:
+            v0.2.8.27:
     Forestry:
         name: "Forestry"
         author: "SirSengir"
@@ -397,14 +430,6 @@ mods:
         versions:
             v52.0.6:
             v52.0.5:
-    Metallurgy:
-        name: "Metallurgy"
-        author: "Shadowclaimer"
-        description: "Metallurgy 2 is a vast enhancement to the basic mining system, adding well over 48+ new metals (based on which submods you use)."
-        installtype: "zip"
-        link: "http://www.minecraftforum.net/topic/744918-146132forgebukkitsmp-metallurgy-2-242-putting-the-mine-back-in-minecraft/"
-        versions:
-            v2.4.2:
     MFFS:
         name: "Modular Forcefield Systems"
         author: "Thunderdark/Calclavia"
@@ -542,15 +567,6 @@ mods:
             v1.0.3B1-33:
             v1.0.3B1-30:
             v1.0.2-22:
-    ProjectZulu:
-        name: "Project Zulu"
-        author: "Crudedragos"
-        description: "This mod aims to create a better overworld by adding unique mobs, blocks, strucutres, and mechanics to each biome."
-        installtype: "zip"
-        link: "http://www.minecraftforum.net/topic/1468127-146forgebuffarmor-bar-mods-project-zulu-better-overworld-v063-extrabiomesxl-support-update-gui-mob-spawner/"
-        versions:
-            v0.6.4:
-            v0.6.3b:
     RailCraft:
         name: "RailCraft"
         author: "CovertJaguar"
