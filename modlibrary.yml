@@ -187,7 +187,7 @@ mods:
             v2.4.2:
             v2.4.2recrux:
             v2.4.4:
-    DenLib:
+    denLib:
         name: "denLib"
         author: "denoflions"
         description: "coremod for denoflions mods"
@@ -212,7 +212,7 @@ mods:
         versions:
             v1:
     F4113nC0r3:
-        name: "Gregs Lighting"
+        name: "F4ll3nC0r3"
         author: "F411enb34st"
         description: "For modders, adds in tons of helpful methods and super classes that simplify the process of making an addon"
         installtype: "zip"
