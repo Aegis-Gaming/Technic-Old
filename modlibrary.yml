@@ -78,6 +78,7 @@ mods:
             recrux-v1.5.2:
             recrux-v1.5.3:
             recrux-v1.6.0:
+            recrux-v1.7.a:
     BC-ABO:
         name: "BuildCraft - Additional BuildCraft Objects"
         author: "Flow86"
@@ -797,6 +798,9 @@ mods:
             v1.5.2:
             v1.5.3:
             v1.6.0:
+            v1.7.a:
+            v1.7.b:
+            v1.7.c:
     z-recrux-resources:
         name: "Recrux Resources"
         author: "Radus"
@@ -806,3 +810,4 @@ mods:
             v1.5.2:
             v1.5.3:
             v1.6.0:
+            v1.7.a:
