@@ -164,7 +164,7 @@ mods:
     CoFHCore:
         name: "CoFH Core"
         author: "King Lemming"
-        description: "description"
+        description: "Coremod for Thermal Expansion."
         installtype: "zip"
         link: "http://thermalexpansion.wikispaces.com/Downloads"
         versions:
@@ -172,7 +172,7 @@ mods:
     ComputerCraft:
         name: "ComputerCraft"
         author: "dan200"
-        description: "description"
+        description: "ComputerCraft is a mod created for Minecraft that adds Computers, Monitors, Modems, Turtles and more! All devices are programmed with the easy to learn Lua programming language. You can use Redstone and even RedPower alongside with your devices for the best experience."
         installtype: "zip"
         link: "http://www.computercraft.info/"
         versions:
@@ -239,7 +239,7 @@ mods:
     Forestry:
         name: "Forestry"
         author: "SirSengir"
-        description: "Farms, Bees, Trees, etc."
+        description: "The goal of this mod is to automate tree farming as much as possible without becoming entirely overpowered. Full automation can currently only be achieved if the mod is used in conjunction with BuildCraft."
         installtype: "zip"
         link: "http://forestry.sengir.net/wiki.new/doku.php?id=start/"
         versions:
@@ -264,7 +264,7 @@ mods:
     GregsLighting:
         name: "Gregs Lighting"
         author: "Greg Ewing"
-        description: "description"
+        description: "This mod currently provides just one item, the Floodlight. It produces light that propagates at full brightness for up to 64 blocks or until it hits a nonempty block."
         installtype: "zip"
         link: "http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/"
         versions:
@@ -272,7 +272,7 @@ mods:
     IC2:
         name: "IndustrialCraft 2"
         author: "Alblaka"
-        description: "description"
+        description: "ndustrial Craft 2 adds many machines to Minecraft which help the player to automate and increase efficiency. It also includes many features other than machines, such as plant Cross Breeding, new blocks, and new Achievements."
         installtype: "zip"
         link: "http://www.industrial-craft.net/"
         versions:
@@ -313,15 +313,15 @@ mods:
     IC2-ChargePads:
         name: "IndustrialCraft 2 - Charge Pads"
         author: "Myrathi"
-        description: "description"
+        description: "Provides new blocks which, when stood upon, will recharge IC2 items that are held in your hand or worn (like batpacks or parts of a nanosuit)."
         installtype: "zip"
-        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892"
+        link: "http://bit.ly/ChargePads"
         versions:
             v2.4.1.66:
     IC2-GregTech:
         name: "IndustrialCraft 2 - GregTech"
         author: "GregoriusT"
-        description: "description"
+        description: "Adds a higher tier of machines as well as balances out other mods and makes them work better together."
         installtype: "zip"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156"
         versions:
@@ -333,7 +333,7 @@ mods:
     IC2-NuclearControl:
         name: "IndustrialCraft 2 - Nuclear Control"
         author: "Shedar"
-        description: "description"
+        description: "uclear Control addon allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system."
         installtype: "zip"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915"
         versions:
@@ -471,7 +471,7 @@ mods:
     MineFactoryReloaded:
         name: "MineFactory Reloaded"
         author: "powercrystals"
-        description: "description"
+        description: "The aim of MineFactory Reloaded is to replace a large number of tasks that would previously have been difficult, boring, or work-intensive."
         installtype: "zip"
         link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
@@ -539,7 +539,7 @@ mods:
     NetherOres:
         name: "Nether Ores"
         author: "powercrystals"
-        description: "description"
+        description: "Ores in the Nether! Coal, diamond, gold, iron, lapis, redstone, tin, copper, emerald, silver, lead, uranium, and nikolite."
         installtype: "zip"
         link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
@@ -551,7 +551,7 @@ mods:
         author: "Myrathi"
         description: "The idea of obsidian pressure plates is basicly players can activate them but mobs can't. :)"
         installtype: "zip"
-        link: "http://forum.feed-the-beast.com/threads/obsidian-pressure-plates.755/"
+        link: "http://bit.ly/ObsidiPlates"
         versions:
             v1.2.0.3:
     OmniTools:
@@ -582,7 +582,7 @@ mods:
     PowerConverters:
         name: "Power Converters"
         author: "powercrystals"
-        description: "description"
+        description: "PowerConverters understands IC2, BuildCraft, UniversalElectricity, and Railcraft steam."
         installtype: "zip"
         link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
@@ -592,7 +592,7 @@ mods:
     PowerCrystalsCore:
         name: "PowerCrystals Core"
         author: "powercrystals"
-        description: "description"
+        description: "Coremod for PowerCrystals mods"
         installtype: "zip"
         link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
@@ -604,7 +604,7 @@ mods:
     RailCraft:
         name: "RailCraft"
         author: "CovertJaguar"
-        description: "description"
+        description: "Have you ever wished minecarts and rails had received a bit more attention during development? Well that ends now! Gone are all those broken bits and in their place are a ton of new tools to build your massive rail system. If you ever cared about rails, you wont ever look back!"
         installtype: "zip"
         link: "http://www.railcraft.info/"
         versions:
@@ -621,7 +621,7 @@ mods:
     RedPower-Compat:
         name: "RedPower - Compat"
         author: "eloraam"
-        description: "description"
+        description: "RedPower Compat is a new module which includes additional support for cross-mod compatibility."
         installtype: "zip"
         link: "http://www.eloraam.com/"
         versions:
@@ -629,7 +629,7 @@ mods:
     RedPower-Core:
         name: "RedPower - Core"
         author: "eloraam"
-        description: "description"
+        description: "Coremod for Redpower 2"
         installtype: "zip"
         link: "http://www.eloraam.com/"
         versions:
@@ -637,7 +637,7 @@ mods:
     RedPower-Digital:
         name: "RedPower - Digital"
         author: "eloraam"
-        description: "description"
+        description: "Logic modules, wiring and lighting."
         installtype: "zip"
         link: "http://www.eloraam.com/"
         versions:
@@ -645,7 +645,7 @@ mods:
     RedPower-Mechanical:
         name: "RedPower - Mechanical"
         author: "eloraam"
-        description: "description"
+        description: "Adds machines, tubes and world generation features"
         installtype: "zip"
         link: "http://www.eloraam.com/"
         versions:
@@ -653,7 +653,7 @@ mods:
     ReiMinimap:
         name: "Rei's Minimap"
         author: "ReiFNSK"
-        description: "description"
+        description: "Adds a minimap to the client."
         installtype: "zip"
         link: "http://www.minecraftforum.net/topic/482147-"
         versions:
@@ -719,7 +719,7 @@ mods:
     ThermalExpansion:
         name: "Thermal Expansion"
         author: "King Lemming"
-        description: "description"
+        description: "Thermal Expansion, at its core, is a "tech" mod - it's a mod of what ifs."
         installtype: "zip"
         link: "http://thermalexpansion.wikispaces.com/"
         versions:
