@@ -1,6 +1,6 @@
 launcher: 
 current: 
-recommended: 1.6.1
+recommended: 1.7.0
 latest: 1.7.0
 lib-1: &lib-1
     commons-io: 2.1
@@ -471,5 +471,5 @@ builds:
             ThermalExpansion: v2.2.2.2
             TreeCapitator: v1.4.6.r07
             UE-BasicComponents: v1.2.6.339
-            z-recrux-config: v1.7.a
+            z-recrux-config: v1.7.b
             z-recrux-resources: v1.7.a
