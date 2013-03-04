@@ -41,6 +41,7 @@ mods:
         link: "http://www.universalelectricity.com/?m=assembly_line"
         versions:
             v0.2.7.85:
+            v0.2.7.87:
     AtomicScience:
         name: "Atomic Science"
         author: "Calclavia"
@@ -145,6 +146,14 @@ mods:
         link: "http://www.mod-buildcraft.com/"
         versions:
             v3.4.3:
+    ChickenChunks:
+        name: "Chicken Chunks"
+        author: "chicken_bones"
+        description: "This mod changes the behavior of chunk loading."
+        installtype: "zip"
+        link: "http://www.minecraftforum.net/topic/909223-"
+        versions:
+            v1.3.1.0:
     ChocoCraft:
         name: "ChocoCraft"
         author: "Torojima"
@@ -177,6 +186,14 @@ mods:
         link: "http://www.computercraft.info/"
         versions:
             v1.5:
+    CustomMobSpawner:
+        name: "Custom Mob Spawner"
+        author: "DrZhark"
+        description: "CustomMobSpawner offers modders the ability to have their custom mobs spawned in a similar way than Minecraft prior to 1.8."
+        installtype: "zip"
+        link: "http://www.minecraftforum.net/topic/1080677-146-custom-mob-spawner/"
+        versions:
+            v1.11:
     DamageIndicators:
         name: "Damage Indicators"
         author: "rich1051414"
@@ -212,6 +229,14 @@ mods:
         link: "http://www.minecraftforum.net/topic/1340914-147smpbukkitforgedungeonpack24-dungeons3-bosses2-npc-villages30000-updated/"
         versions:
             v1:
+    ExtraBiomesXL:
+        name: "Extrabiomes XL"
+        author: "MisterFiber"
+        description: "ExtrabiomesXL is a mod for Minecraft which adds new biomes that enhance game play and make exploring fun and interesting."
+        installtype: "zip"
+        link: "http://www.minecraftforum.net/topic/1090288-147-extrabiomesxl-3100-marshes-fixed-d/"
+        versions:
+            v3.10.0:
     F4113nC0r3:
         name: "F4ll3nC0r3"
         author: "F411enb34st"
@@ -269,6 +294,14 @@ mods:
         link: "http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/"
         versions:
             v1.7.1:
+    GuiAPI:
+        name: "GuiAPI"
+        author: "ShaRose"
+        description: "GuiAPI is a powerful API for creating easy to create and use settings and menus in Minecraft."
+        installtype: "zip"
+        link: "http://www.minecraftforum.net/topic/612536-146-guiapi-an-advanced-gui-toolkit/"
+        versions:
+            v0.15.2:
     IC2:
         name: "IndustrialCraft 2"
         author: "Alblaka"
@@ -479,6 +512,14 @@ mods:
             v2.2.0B1-100:
             v2.2.0B1-88:
             v2.1.4-28:
+    MoCreatures:
+        name: "MoCreatures"
+        author: "DrZhark"
+        description: "This Mod adds more creatures to the game."
+        installtype: "zip"
+        link: "http://www.minecraftforum.net/topic/81771-147-mo-creatures-v451-with-elephants-mammoths-komodo-dragons-more-ostriches-better-jellyfish-more-fairy-horses/"
+        versions:
+            v4.5.1:
     ModularPowerSuits:
         name: "Modular Power Suits"
         author: "MachineMuse"
@@ -801,6 +842,7 @@ mods:
             v1.7.a:
             v1.7.b:
             v1.7.c:
+            v1.7.d:
     z-recrux-resources:
         name: "Recrux Resources"
         author: "Radus"
