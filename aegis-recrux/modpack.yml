@@ -1,6 +1,6 @@
 launcher: 
 current: 
-recommended: 1.7.0
+recommended: 1.7.1
 latest: 1.7.1
 lib-1: &lib-1
     commons-io: 2.1
@@ -496,7 +496,7 @@ builds:
             CoFHCore: v1.4.7.3
             ComputerCraft: v1.5
             CustomMobSpawner: v1.11
-            DamageIndicators: v2.4.2recrux
+            DamageIndicators: v2.4.5
             DenLib: v2.1.4
             DungeonPack: v1
             ExtraBiomesXL: v3.10.0
@@ -504,7 +504,7 @@ builds:
             FancyGlass: v1.0.3
             FluidMechanics: v0.2.8.27
             Forestry: v2.0.0.11
-            Forestry-ExtraBees: v1.5.0.3
+            Forestry-ExtraBees: v1.5.0.6b
             ForgeEssentials: v1.1.1.251
             GregsLighting: v1.7.1
             GuiAPI: v0.15.2
@@ -512,7 +512,7 @@ builds:
             IC2-APM: v1.1.55
             IC2-ChargePads: v2.4.1.66
             IC2-DeFence: v3.3.2
-            IC2-GregTech: v2.80h
+            IC2-GregTech: v2.81a
             IC2-NuclearControl: v1.4.6
             IC2-PetroGen: v1.2.1
             IC2-Quantumpack: v1.06
@@ -521,20 +521,21 @@ builds:
             LiquidRelay: v1.4.7
             LiquidUU: v0.7.12b
             MineChem: v2.0.0pr6.1
-            MineFactoryReloaded: v2.2.0-151
+            MineFactoryReloaded: v2.2.0-150
             MoCreatures: v4.5.1
             NEI: v1.4.7.0
             NEI-Forestry: v1.4.7
             NEI-Plugins: v1.0.4.5a
             NEI-RedPower: v1.4.3.1
-            NetherOres: v2.0.6-33
+            NetherOres: v2.0.6-32
             ObsidiPlates: v1.2.0.3
             OmniTools: v3.0.4
             OpenCCSensors: v0.1.4
             PluginsforForestry: v1.4.7-29
-            PowerConverters: v2.2.2-30
-            PowerCrystalsCore: v1.0.3-35
+            PowerConverters: v2.2.2-29
+            PowerCrystalsCore: v1.0.3-34
             RailCraft: v6.17.0.0
+            RailFix: v1.1.0
             RecipeRemover: v1.1
             RedPower-Compat: v2.0pr6
             RedPower-Core: v2.0pr6

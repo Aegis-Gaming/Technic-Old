@@ -279,6 +279,7 @@ mods:
         installtype: "zip"
         link: "http://extrabees.wikidot.com/start"
         versions:
+            v1.5.0.6b:
             v1.5.0.4:
             v1.5.0.3:
     ForgeEssentials:
