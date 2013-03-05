@@ -670,6 +670,7 @@ mods:
         installtype: "zip"
         versions:
             v1.1.0:
+            v1.1.0-r2:
     RecipeRemover:
         name: "Recipe Remover"
         author: "ShadwDrgn"
