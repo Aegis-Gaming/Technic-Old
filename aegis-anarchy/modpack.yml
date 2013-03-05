@@ -1,6 +1,6 @@
 launcher: 
 current: 
-recommended: 1.3.0
+recommended: 1.3.1
 latest: 1.3.1
 lib-1: &lib-1
     commons-io: 2.1
@@ -17,7 +17,6 @@ builds:
         forge: 534
         mods:
             basemods: anarchy-v1.3.1
-            AncientWarfare: v0.8.7.135
             AppliedEnergistics: v9.b
             ArmorStatusHUD: v1.6
             BackTools: v1.4.6v1
