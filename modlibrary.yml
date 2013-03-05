@@ -279,7 +279,7 @@ mods:
         installtype: "zip"
         link: "http://extrabees.wikidot.com/start"
         versions:
-            v1.5.0.6b:
+            v1.5.0.6:
             v1.5.0.4:
             v1.5.0.3:
     ForgeEssentials:
@@ -363,6 +363,7 @@ mods:
         installtype: "zip"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156"
         versions:
+            v2.81b:
             v2.81a:
             v2.80h:
             v2.80e:

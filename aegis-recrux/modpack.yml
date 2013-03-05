@@ -1,7 +1,7 @@
 launcher: 
 current: 
-recommended: 1.7.1
-latest: 1.7.1
+recommended: 1.7.1b
+latest: 1.7.1b
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -513,6 +513,82 @@ builds:
             IC2-ChargePads: v2.4.1.66
             IC2-DeFence: v3.3.2
             IC2-GregTech: v2.81a
+            IC2-NuclearControl: v1.4.6
+            IC2-PetroGen: v1.2.1
+            IC2-Quantumpack: v1.06
+            InfernalMobs: v1.4.6
+            LiquidMetals: v0.1.16
+            LiquidRelay: v1.4.7
+            LiquidUU: v0.7.12b
+            MineChem: v2.0.0pr6.1
+            MineFactoryReloaded: v2.2.0-150
+            MoCreatures: v4.5.1
+            NEI: v1.4.7.0
+            NEI-Forestry: v1.4.7
+            NEI-Plugins: v1.0.4.5a
+            NEI-RedPower: v1.4.3.1
+            NetherOres: v2.0.6-32
+            ObsidiPlates: v1.2.0.3
+            OmniTools: v3.0.4
+            OpenCCSensors: v0.1.4
+            PluginsforForestry: v1.4.7-29
+            PowerConverters: v2.2.2-29
+            PowerCrystalsCore: v1.0.3-34
+            RailCraft: v6.17.0.0
+            RailFix: v1.1.0
+            RecipeRemover: v1.1
+            RedPower-Compat: v2.0pr6
+            RedPower-Core: v2.0pr6
+            RedPower-Digital: v2.0pr6
+            RedPower-Mechanical: v2.0pr6
+            ReiMinimap: v3.2_06
+            RPTweaks: v4
+            StatusEffectHUD: v1.9
+            ThermalExpansion: v2.2.2.2
+            TreeCapitator: v1.4.6.r07
+            UE-BasicComponents: v1.2.6.339
+            z-recrux-config: v1.7.d
+            z-recrux-resources: v1.7.a
+    1.7.1b:
+        libraries:
+        minecraft: 1.4.7
+        forge: 534
+        mods:
+            basemods: recrux-v1.7.a
+            AssemblyLine: v0.2.7.87
+            AtomicScience: v0.4.1.162
+            ArmorStatusHUD: v1.6
+            BackTools: v1.4.6v1
+            BC-ABO: v1.0.1.88
+            BC-DenPipes: v6
+            BC-LogisticsPipes: v0.7.0.91
+            BechillTPS: v0.4.1.1
+            BetterStorage: v0.4.2
+            BiblioCraft: v1.1.0
+            bspkrsCore: v1.01
+            BuildCraft: v3.4.3
+            ChickenChunks: v1.3.1.0
+            CodeChickenCore: v0.7.3
+            CoFHCore: v1.4.7.3
+            ComputerCraft: v1.5
+            CustomMobSpawner: v1.11
+            DamageIndicators: v2.4.5
+            DenLib: v2.1.4
+            DungeonPack: v1
+            ExtraBiomesXL: v3.10.0
+            F4113nC0r3: v4.0.5
+            FancyGlass: v1.0.3
+            FluidMechanics: v0.2.8.27
+            Forestry: v2.0.0.11
+            Forestry-ExtraBees: v1.5.0.6
+            ForgeEssentials: v1.1.1.251
+            GregsLighting: v1.7.1
+            GuiAPI: v0.15.2
+            IC2: v1.115.218
+            IC2-APM: v1.1.55
+            IC2-ChargePads: v2.4.1.66
+            IC2-DeFence: v3.3.2
+            IC2-GregTech: v2.81b
             IC2-NuclearControl: v1.4.6
             IC2-PetroGen: v1.2.1
             IC2-Quantumpack: v1.06
