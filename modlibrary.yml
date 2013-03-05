@@ -671,6 +671,7 @@ mods:
         versions:
             v1.1.0:
             v1.1.0-r2:
+            v1.1.0-r3:
     RecipeRemover:
         name: "Recipe Remover"
         author: "ShadwDrgn"
