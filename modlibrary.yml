@@ -363,7 +363,7 @@ mods:
         installtype: "zip"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156"
         versions:
-            v2.81b:
+            v2.81b-r2:
             v2.81a:
             v2.80h:
             v2.80e:
