@@ -630,7 +630,7 @@ builds:
         minecraft: 1.4.7
         forge: 534
         mods:
-            basemods: recrux-v1.7.a
+            basemods: recrux-v1.8.a
             AssemblyLine: v0.2.7.87
             AtomicScience: v0.4.1.162
             ArmorStatusHUD: v1.6
