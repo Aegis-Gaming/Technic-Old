@@ -209,6 +209,7 @@ mods:
             v2.4.2recrux:
             v2.4.4:
             v2.4.5:
+            v2.4.7:
     DenLib:
         name: "denLib"
         author: "denoflions"
@@ -291,6 +292,14 @@ mods:
         link: "http://www.minecraftforum.net/topic/1661157-forgeforgeessentials-bukkit-functionality-for-your-forge-server/"
         versions:
             v1.1.1.251:
+    ForgeMobSpawn:
+        name: "Forge Mob Spawn Controls"
+        author: "Davidee"
+        description: "Not only can you control spawnrates of the individual mobs, but you can also increase the Spawn Caps and passive mob spawn frequency."
+        installtype: "zip"
+        link: "http://www.minecraftforum.net/topic/1553186-147forgemodloader-mob-spawn-controls-control-spawning-increase-spawncaps-spawn-attempts-mocreaturesextrabiomes-support-updated/"
+        versions:
+            v1.4.6.2:
     GregsLighting:
         name: "Gregs Lighting"
         author: "Greg Ewing"
@@ -364,6 +373,7 @@ mods:
         installtype: "zip"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156"
         versions:
+            v2.81e:
             v2.81b-r2:
             v2.81a:
             v2.80h:
