@@ -1,0 +1,12 @@
+#| IC2 has DRM, we don't think DRM should have a place in a free mod...
+#| http://mirror.fractalrealities.net/mods/DRM_fixes/ thanks anyways RG ;)
+#|
+#|
+#|
+C|vidplace7|http://rg.dl.je/cape_lead.png
+C|Radus|http://rg.dl.je/cape_lead.png
+C|Volgarenthor|http://rg.dl.je/cape_developer.png
+C|dmaxwell6|http://rg.dl.je/cape_developer.png
+C|9gigsofram|http://rg.dl.je/cape_bacon.png
+C|funbob10|http://rg.dl.je/cape_star.png
+C|BritishG4m3r|http://rg.dl.je/cape_star.png
