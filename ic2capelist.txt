@@ -4,7 +4,7 @@
 #|
 #|
 C|vidplace7|http://rg.dl.je/cape_lead.png
-C|Radus|http://rg.dl.je/cape_lead.png
+C|radus|http://rg.dl.je/cape_lead.png
 C|Volgarenthor|http://rg.dl.je/cape_developer.png
 C|dmaxwell6|http://rg.dl.je/cape_developer.png
 C|9gigsofram|http://rg.dl.je/cape_bacon.png
